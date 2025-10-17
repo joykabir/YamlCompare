@@ -1,0 +1,5 @@
+# YAML File Comparison Script Dependencies
+# Python 3.7+ compatible
+
+# PyYAML - YAML parser and emitter for Python
+PyYAML>=5.1,<7.0

@@ -1,0 +1,12 @@
+nodes:
+  expectedFailCodes:
+    - "16"
+    - "51"
+  expectedFailRefs:
+    - "4254851"
+    - "1234567"
+  timeout: 30
+
+database:
+  host: localhost
+  port: 5432

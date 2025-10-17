@@ -1,0 +1,11 @@
+nodes:
+  expectedFailCodes:
+    - "16"
+    - "51"
+  expectedFailRefs:
+    - "4254851"
+  timeout: 60
+
+database:
+  host: production-db
+  port: 5432
