@@ -13,4 +13,4 @@ COPY scripts/ scripts/
 COPY resources/ resources/
 
 # Run the script from scripts directory
-CMD ["python", "scripts/compare_yaml.py"]
+CMD ["python", "scripts/compare_yml.py"]

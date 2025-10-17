@@ -30,8 +30,9 @@ A Python script to compare two YAML configuration files and display differences 
 python3 -m venv venv
 
 # Activate virtual environment
-# On Linux/Mac:
+
 source venv/bin/activate
+
 # On Windows:
 venv\Scripts\activate
 
